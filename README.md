@@ -1,7 +1,7 @@
 # InQuire
 ![GitHub repo size](https://img.shields.io/github/repo-size/damianjuan/Inquire) ![GitHub contributors](https://img.shields.io/github/contributors/damianjuan/InQuire) ![js-semistandard-style](https://img.shields.io/badge/code%20style-semistandard-brightgreen.svg)
 
-This is an app build with React that allows users to create and share surveys. The survey results are displayed in charts for the user.
+This is an app built with React that allows users to create and share surveys. The survey results are displayed in charts for the user.
 
 ## Table of Contents
 - [Getting Started](#getting-started)
@@ -26,7 +26,7 @@ for notes on how to deploy the project on a live system.
 
 ## Deployment
 
-Deployed at https://inquire-6846.herokuapp.com/
+Deployed at https://inquiresurveys.herokuapp.com/
 
 ## Built With
 
